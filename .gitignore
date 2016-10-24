@@ -28,6 +28,7 @@ bin/
 gen/
 out/
 build/
+target/
 
 # Gradle files
 .gradle/
